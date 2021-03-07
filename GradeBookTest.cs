@@ -18,7 +18,7 @@ public class GradeBookTest
 
         decimal avg = mygb.CalcAverage();
 
-        Console.WriteLine("The average of the 10 students is: " + avg);
+        Console.WriteLine("The average of the 5 students is: " + avg);
 
     }
 }
